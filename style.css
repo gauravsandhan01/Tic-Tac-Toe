@@ -61,7 +61,9 @@ body {
   background-color: #ffb700;
   transform: scale(1.1);
 }
-
+h1{
+  text-align: center;
+}
 
 /* Main container for the game */
 .container {
